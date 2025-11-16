@@ -1,4 +1,4 @@
-public class Main {
+public class PracticeProblems {
     public static void main(String[] args) {
         // quick tests for each function
         int[] a = {1, 2, 3, 2, 4, 2};
@@ -62,4 +62,3 @@ public class Main {
         return b;
     }
 }
-
